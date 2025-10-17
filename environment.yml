@@ -121,4 +121,3 @@ dependencies:
       - urllib3==2.5.0
       - xlwings==0.33.15
       - yarl==1.20.1
-prefix: C:\Users\50649\.conda\envs\xm_env
