@@ -4,12 +4,13 @@ Este repositorio contiene la prueba técnica para el cargo de analísta analíti
 <a id='instalacion'></a>
 ## Instalación
   
-
+Para clonar el repositorio:
 ```git
 git clone https://github.com/AndreDaniTorres/analytics_test.git
 cd analytics_test
 ```
 
+Para crear el ambiente:
 ```console
 conda env create -f environment.yml
 ```
